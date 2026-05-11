@@ -1096,3 +1096,4 @@ Felicidades Ahora tu marketplace ya tiene:
 ✔ Busqueda
 ✔ Paginacion
 ```
+"// ajuste 6" 
