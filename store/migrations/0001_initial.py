@@ -92,3 +92,4 @@ class Migration(migrations.Migration):
             field=models.ManyToManyField(related_name='carts', through='store.CartItem', to='store.product'),
         ),
     ]
+"// ajuste 10" 
