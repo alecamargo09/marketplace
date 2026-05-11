@@ -231,3 +231,4 @@ def update_cart_item(request, item_id):
             item.delete()
 
     return redirect('cart_detail')
+"// ajuste 1" 
